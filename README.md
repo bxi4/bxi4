@@ -4,10 +4,10 @@
 I am a passionate developer with a keen interest in web development, data science, and open-source contributions. I love experimenting with new technologies and continuously improving my coding skills.
 
 ## Skills
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, VS Code
-- **Databases:** MySQL, MongoDB
+- **Languages:** Swift, Dart, Flutter
+- **Frameworks:** SwiftUI, Flutter Framework 
+- **Tools:** Git, Ai, VS Code
+- **Databases:** Hive,Firebase, MongoDB
 
 ## Projects
 Here are some of my favorite projects that I've worked on:
